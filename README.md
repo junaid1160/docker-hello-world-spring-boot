@@ -68,5 +68,5 @@ Hello World
 
 ##### Stop Docker Container:
 ```
-docker-compose down
+docker-compose up
 ```
